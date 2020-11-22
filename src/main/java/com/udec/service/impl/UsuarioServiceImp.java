@@ -43,6 +43,7 @@ public class UsuarioServiceImp implements IUsuarioService {
 		return udt;
 		
 	}
+	
 
 	@Override
 	public void crear(Usuario entidad) {
