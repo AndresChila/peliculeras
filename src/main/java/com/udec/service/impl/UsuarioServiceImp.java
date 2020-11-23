@@ -44,7 +44,6 @@ public class UsuarioServiceImp implements IUsuarioService {
 		
 	}
 	
-
 	@Override
 	public void crear(Usuario entidad) {
 		
